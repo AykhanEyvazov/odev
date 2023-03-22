@@ -44,3 +44,20 @@ Cevabınızı buraya yazınız!
     ```{r}
   4+0
   ```
+  **Soru 9** LaTeX kullanarak bir blok denklem yazınız
+  
+  $B = \pi*cˆ{4}$!
+    
+    **Soru 9** Bir kod bloğu ekleyerek 5 + 4 toplamını hesaplayınız.
+  
+  ```{r}
+  5+4
+  ```
+  
+  
+  
+  
+  
+  
+  
+  
