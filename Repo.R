@@ -16,11 +16,11 @@ opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
   
   **Soru 2** Markdown kullanarak bir kelimesi italik olan bir cümle yazınız.
 
-(*Mulkiye* tarihi keçmişi olan bir okukldur)! 
+"(*Mulkiye* tarihi keçmişi olan bir okukldur)"
   
   **Soru 3** Markdown kullanarak bir kelimesi kalın italik olan bir cümle yazınız.
 
-(**_Mulkiye_** tarihi keçmişi olan bir okukldur)!
+"(**_Mulkiye_** tarihi keçmişi olan bir okukldur)"
   
   **Soru 4** Markdown kullanarak 3 elemanlı bir sırasız liste yazınız.
 
@@ -32,11 +32,11 @@ Cevabınızı buraya yazınız!
   
   **Soru 6** Markdown kullanarak istediğiniz bir websayfasına link veriniz.
 
-([Mülkiye](http://www.politics.ankara.edu.tr/)!
+"([Mülkiye](http://www.politics.ankara.edu.tr/)"
     
     **Soru 7** Markdown kullanarak bir komik bir kedi fotoğrafı ekleyiniz.
   
-  !{Sirin kedi} !(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sabah.com.tr%2Fyasam%2Finternet-fenomeni-ofkeli-kedi-koyuki-3454876&psig=AOvVaw2he9PDJtNgTSj6mNlbCrF7&ust=1679563067622000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCLC4zZOa7_0CFQAAAAAdAAAAABAE)!
+  !{Sirin kedi} "(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sabah.com.tr%2Fyasam%2Finternet-fenomeni-ofkeli-kedi-koyuki-3454876&psig=AOvVaw2he9PDJtNgTSj6mNlbCrF7&ust=1679563067622000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCLC4zZOa7_0CFQAAAAAdAAAAABAE)"
     
     **Soru 8** RMarkdown kullanarak bir kod bloğu ekleyiniz ve içerisinde basit bir matematik işlemi yapınız.
   
